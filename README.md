@@ -7,6 +7,8 @@ I'm using GitHub for personnal project, using Open Source application or stock m
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=Lhokamn" height="150" alt="languages graph"  />
 </div>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E61C7LNR)
+
 <!--
 **Lhokamn/Lhokamn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
